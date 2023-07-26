@@ -1,6 +1,6 @@
 #include "main.h"
 
-/*
+/**
  * get_location - populates the command's path.
  * @argv_zero: pointer to env. variables list.
  *

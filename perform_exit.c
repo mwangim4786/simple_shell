@@ -1,7 +1,7 @@
 #include "main.h"
 
-	
-/*
+
+/**
  * perform_exit - excecute exit command.
  * @argv: pointer to command line variables vector.
  *

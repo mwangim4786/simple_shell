@@ -1,5 +1,14 @@
 #include "main.h"
 
+/**
+ * main - main function.
+ * @argc: count integer.
+ * @argv: arguments vector.
+ * @envp: environment variables vector.
+ *
+ * Return: Always 0.
+ */
+
 int main(int argc, char **argv, char **envp)
 {
 	char *string = NULL, *string_copy = NULL,  *prompt = "cisfun$ ", *token;

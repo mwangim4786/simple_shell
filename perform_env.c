@@ -1,6 +1,6 @@
 #include "main.h"
 
-/*
+/**
  * perform_env - excecute env command.
  * @argv: pointer to command line variables vector.
  * @envp: pointer to command line variables vector.

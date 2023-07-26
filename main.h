@@ -1,3 +1,6 @@
+#ifndef _MAIN_H_
+#define _MAIN_H_
+
 
 #include <stdio.h>
 #include <string.h>
@@ -11,3 +14,6 @@ char *get_location(char *argv_zero);
 void exec(char **argv);
 void perform_exit(char **argv);
 void perform_env(char **argv, char **envp);
+
+
+#endif
